@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Testing out the new Grid.io platform
-datePublished: '2016-01-26T17:29:55.048Z'
-dateModified: '2016-01-26T17:29:35.696Z'
+datePublished: '2016-01-26T17:32:50.817Z'
+dateModified: '2016-01-26T17:32:45.675Z'
 title: The Grid.io Demo
 author: []
 authors: []
