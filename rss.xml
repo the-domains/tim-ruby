@@ -4,7 +4,7 @@
         <description><![CDATA[Designer/Front-end Developer]]></description>
         <link>https://thegrid.ai/tim-ruby/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 19:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 19:40:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tim-ruby/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is this wizardry?]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[The Grid.io Demo]]></title>
-            <description><![CDATA[<article><h1>The Grid.io Demo</h1><p>Etiam porta sem malesuada magna mollis euismod. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/269887d0ae178a7ee559f606f72686109fd991b2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Grid.io Demo</h1><p>Testing out the new Grid.io platform</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/269887d0ae178a7ee559f606f72686109fd991b2.jpg"></article>]]></description>
             <link>https://thegrid.ai/tim-ruby/the-gridio-demo/index.html</link>
             <guid isPermaLink="false">e6093aca-a907-4fb6-9952-733b7f02986a</guid>
-            <pubDate>Wed, 27 Jan 2016 19:37:54 GMT</pubDate>
+            <pubDate>Wed, 27 Jan 2016 19:38:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
