@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Testing out the new Grid.io platform
-datePublished: '2016-01-27T19:38:35.308Z'
+datePublished: '2016-01-27T19:38:35.335Z'
 dateModified: '2016-01-27T19:38:32.849Z'
 title: The Grid.io Demo
 author: []
