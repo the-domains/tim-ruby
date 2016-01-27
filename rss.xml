@@ -4,21 +4,21 @@
         <description><![CDATA[Designer/Front-end Developer]]></description>
         <link>https://thegrid.ai/tim-ruby/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 19:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 19:39:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tim-ruby/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is this wizardry?]]></title>
+            <description><![CDATA[<article><h1>What is this wizardry?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c525e4c7afaf003fd25cca00c18d6670cac28ac9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tim-ruby/harry-potter/index.html</link>
+            <guid isPermaLink="false">50b0150f-96d3-497f-b0ce-dcdc82052902</guid>
+            <pubDate>Wed, 27 Jan 2016 19:36:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid.io Demo]]></title>
             <description><![CDATA[<article><h1>The Grid.io Demo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/269887d0ae178a7ee559f606f72686109fd991b2.jpg"></article>]]></description>
             <link>https://thegrid.ai/tim-ruby/the-gridio-demo/index.html</link>
             <guid isPermaLink="false">e6093aca-a907-4fb6-9952-733b7f02986a</guid>
             <pubDate>Tue, 26 Jan 2016 17:32:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harry Potter]]></title>
-            <description><![CDATA[<article><h1>Harry Potter</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b956de4-a5ce-4d52-90e4-703de5d441c1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tim-ruby/harry-potter/index.html</link>
-            <guid isPermaLink="false">50b0150f-96d3-497f-b0ce-dcdc82052902</guid>
-            <pubDate>Wed, 27 Jan 2016 19:30:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
